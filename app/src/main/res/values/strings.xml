@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TSDMH7S21_RVIJ_P1E3</string>
+    <string name="Text1">Pantalla 1 </string>
+    <string name="btnp2">LLamar la pantalla 2 </string>
+    <string name="btnp3">Lammar la pantalla 3 </string>
+    <string name="Text2">Esta es la Pantalla 2</string>
+    <string name="Text3">Esta es la Pantalla 3</string>
+</resources>
